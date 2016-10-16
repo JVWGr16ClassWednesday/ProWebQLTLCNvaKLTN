@@ -6,6 +6,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
     <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
 </head>
@@ -21,18 +22,25 @@
                         <li>
                             <a href="TrangChu.jsp"> Trang chủ</a>
                         </li>
-                        <li><a href="Quanlytaikhoan.jsp">Quản lý tài khoản</a></li>
-                        <li><a href="QuanLyDeTai.jsp">Quản lý đề tài</a></li>
-                        <li><a href="KiemTraSaoChep.jsp">Kiểm tra sao chép</a></li>
-                        <li><a href="SoSanh.jsp">So sánh</a></li>
-                        <li><a href="Loc.jsp">Lọc</a></li>
                     </ul>
                     <div style="padding-top:8px;">
-                        <label class="col-md-offset-3" style="padding-top:8px;">Admin</label>
-                        <a href="DangNhapChung.jsp" class="btn btn-primary pull-right">Đăng xuất</a>
+                        <label class="col-md-offset-8" style="padding-top:8px;">Tên Sinh Viên</label>
+                        <a href="DangNhapChung.jsp" target="_blank" class="btn btn-primary pull-right">Đăng xuất</a>
                     </div>
                 </div>
             </nav>
+        </div>
+        <div class="row">
+            <div class="panel panel-default">
+                <div class="panel-heading">Thông tin đề tài</div>
+                <div class="panel-body">
+                    <div class="panel panel-default">
+                        <div class="panel-body">
+                            <a href="XemDanhSachDeTaiSV.jsp" target="_blank" class="btn btn-primary">Tìm kiếm</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </body>
