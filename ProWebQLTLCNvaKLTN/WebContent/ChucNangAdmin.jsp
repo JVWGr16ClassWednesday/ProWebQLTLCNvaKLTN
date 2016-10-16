@@ -19,17 +19,17 @@
                 <div class="container-fluid">
                     <ul class="nav navbar-nav">
                         <li>
-                            <a href="TrangChu.jsp"> Trang chủ</a>
+                            <a href="TrangChu.html"> Trang chủ</a>
                         </li>
-                        <li><a href="Quanlytaikhoan.jsp">Quản lý tài khoản</a></li>
-                        <li><a href="QuanLyDeTai.jsp">Quản lý đề tài</a></li>
-                        <li><a href="KiemTraSaoChep.jsp">Kiểm tra sao chép</a></li>
-                        <li><a href="SoSanh.jsp">So sánh</a></li>
-                        <li><a href="Loc.jsp">Lọc</a></li>
+                        <li><a href="#">Quản lý tài khoản</a></li>
+                        <li><a href="#">Quản lý đề tài</a></li>
+                        <li><a href="#">Kiểm tra sao chép</a></li>
+                        <li><a href="#">So sánh</a></li>
+                        <li><a href="#">Lọc</a></li>
                     </ul>
                     <div style="padding-top:8px;">
                         <label class="col-md-offset-3" style="padding-top:8px;">Admin</label>
-                        <a href="DangNhapChung.jsp" class="btn btn-primary pull-right">Đăng xuất</a>
+                        <a href="#" class="btn btn-primary pull-right">Đăng xuất</a>
                     </div>
                 </div>
             </nav>
