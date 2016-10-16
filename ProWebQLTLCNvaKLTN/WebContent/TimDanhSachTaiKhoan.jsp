@@ -13,6 +13,7 @@
     <div class="container">
         <div class="row">
             <img src="header.jpg" class="img-rounded" alt="Cinque Terre" width="100%">
+            <hr />
         </div>
         <div class="row">
             <nav class="navbar navbar-default">
@@ -21,7 +22,7 @@
                         <li>
                             <a href="TrangChu.jsp"> Trang chủ</a>
                         </li>
-                        <li><a href="Quanlytaikhoan.jsp">Quản lý tài khoản</a></li>
+                        <li class="active"><a href="Quanlytaikhoan.jsp" class="active">Quản lý tài khoản</a></li>
                         <li><a href="QuanLyDeTai.jsp">Quản lý đề tài</a></li>
                         <li><a href="KiemTraSaoChep.jsp">Kiểm tra sao chép</a></li>
                         <li><a href="SoSanh.jsp">So sánh</a></li>
@@ -29,10 +30,18 @@
                     </ul>
                     <div style="padding-top:8px;">
                         <label class="col-md-offset-3" style="padding-top:8px;">Admin</label>
-                        <a href="DangNhapChung.jsp" class="btn btn-primary pull-right">Đăng xuất</a>
+                        <a href="DangNhapChung.jsp" target="_blank" class="btn btn-primary pull-right">Đăng xuất</a>
                     </div>
                 </div>
             </nav>
+        </div>
+        <div class="row">
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <a href="DanhSachTaiKhoanGV.jsp" class="btn btn-primary">Danh sách tài khoản Giảng Viên</a>
+                    <a href="DanhSachTaiKhoanSV.jsp" class="btn btn-primary">Danh sách tài khoản Sinh Viên</a>
+                </div>
+            </div>
         </div>
     </div>
 </body>
