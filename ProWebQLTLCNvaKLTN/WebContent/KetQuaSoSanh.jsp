@@ -30,7 +30,7 @@
                     </ul>
                     <div style="padding-top:8px;">
                         <label class="col-md-offset-3" style="padding-top:8px;">Admin</label>
-                        <a href="DangNhapChung.jsp" target="_blank" class="btn btn-primary pull-right">Đăng xuất</a>
+                        <a href="DangNhapChung.jsp" class="btn btn-primary pull-right">Đăng xuất</a>
                     </div>
                 </div>
             </nav>
@@ -49,7 +49,7 @@
                             <input type="text" class="form-control" id="" required value="50%">
                         </div>
                     <div class="panel-footer">
-                        <a href="SoSanh.jsp" target="" class="btn btn-primary col-md-offset-10">Trở về</a>
+                        <a href="SoSanh.jsp" class="btn btn-primary col-md-offset-10">Trở về</a>
                     </div>
                 </div>
             </div>

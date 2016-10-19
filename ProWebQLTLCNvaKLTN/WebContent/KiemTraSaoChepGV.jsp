@@ -23,7 +23,7 @@
                             <a href="TrangChu.jsp"> Trang chủ</a>
                         </li>
                         <li><a href="QuanLyDeTaiGV.jsp">Quản lý đề tài</a></li>
-                        <li><a href="KiemTraSaoChepGV.jsp">Kiểm tra sao chép</a></li>
+                        <li class="active"><a href="KiemTraSaoChepGV.jsp">Kiểm tra sao chép</a></li>
                     </ul>
                     <div style="padding-top:8px;">
                         <label class="col-md-offset-6" style="padding-top:8px;">Tên Giảng Viên</label>
@@ -36,10 +36,10 @@
             <div class="panel panel-default">
                 <div class="panel-heading">Kiểm Tra sao chép đề tài</div>
                 <div class="panel-body">
-                    <a href="TimKiemDeTaiGV.jsp" target="_blank" class="btn btn-primary">Tìm kiếm đề tài</a>
+                    <a href="TimKiemDeTaiGV.jsp" class="btn btn-primary">Tìm kiếm đề tài</a>
                     <br />
                     <br />
-                    <a href="KiemTraFileThuyetMinhGV.jsp" target="_blank" class="btn btn-primary">Kiểm tra sao chép file thuyết minh</a>
+                    <a href="KiemTraFileThuyetMinhGV.jsp" class="btn btn-primary">Kiểm tra sao chép file thuyết minh</a>
                 </div>
             </div>
         </div>

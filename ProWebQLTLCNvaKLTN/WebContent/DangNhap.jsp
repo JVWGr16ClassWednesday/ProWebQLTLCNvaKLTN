@@ -7,9 +7,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <script src="js/bootstrap.min.js"></script>
+    <!--add thư viện jquery -->
+    <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+ 	<script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.13.1/jquery.validate.min.js"></script>
 </head>
 <body>
-    <div class="container">
+    <div class="container" id="FrmDangNhap">
         <div class="row">
             <img src="header.jpg" class="img-rounded" alt="Cinque Terre" width="100%">
         </div>

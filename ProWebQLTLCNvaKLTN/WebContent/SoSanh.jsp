@@ -24,12 +24,12 @@
                         <li><a href="Quanlytaikhoan.jsp">Quản lý tài khoản</a></li>
                         <li><a href="QuanLyDeTai.jsp">Quản lý đề tài</a></li>
                         <li><a href="KiemTraSaoChep.jsp">Kiểm tra sao chép</a></li>
-                        <li  class="SoSanh.jsp"><a href="#">So sánh</a></li>
+                        <li  class="active"><a href="SoSanh.jsp">So sánh</a></li>
                         <li><a href="Loc.jsp">Lọc</a></li>
                     </ul>
                     <div style="padding-top:8px;">
                         <label class="col-md-offset-3" style="padding-top:8px;">Admin</label>
-                        <a href="DangNhapChung.jsp" target="_blank" class="btn btn-primary pull-right">Đăng xuất</a>
+                        <a href="DangNhapChung.jsp" class="btn btn-primary pull-right">Đăng xuất</a>
                     </div>
                 </div>
             </nav>

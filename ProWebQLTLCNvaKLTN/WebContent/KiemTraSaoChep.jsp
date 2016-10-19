@@ -24,7 +24,7 @@
                         </li>
                         <li><a href="Quanlytaikhoan.jsp" class="danger">Quản lý tài khoản</a></li>
                         <li><a href="QuanLyDeTai.jsp">Quản lý đề tài</a></li>
-                        <li><a href="KiemTraSaoChep.jsp">Kiểm tra sao chép</a></li>
+                        <li class="active"><a href="KiemTraSaoChep.jsp">Kiểm tra sao chép</a></li>
                         <li><a href="SoSanh.jsp">So sánh</a></li>
                         <li><a href="Loc.jsp">Lọc</a></li>
                     </ul>

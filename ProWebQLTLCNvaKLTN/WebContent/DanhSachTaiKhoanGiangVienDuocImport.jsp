@@ -31,7 +31,7 @@
                     </ul>
                     <div style="padding-top:8px;">
                         <label class="col-md-offset-3" style="padding-top:8px;">Admin</label>
-                        <a href="DangNhapChung.jsp" target="_blank" class="btn btn-primary pull-right">Đăng xuất</a>
+                        <a href="DangNhapChung.jsp" class="btn btn-primary pull-right">Đăng xuất</a>
                     </div>
                 </div>
             </nav>
@@ -79,7 +79,7 @@
 
                             </tbody>
                         </table>
-                        <a href="DanhSachTaiKhoanGiangVienDuocTao.jsp" target="_blank" class="btn btn-primary">Tạo tài khoản</a>
+                        <a href="DanhSachTaiKhoanGiangVienDuocTao.jsp" class="btn btn-primary">Tạo tài khoản</a>
                     </div>
                 </div>
             </div>

@@ -26,7 +26,7 @@
                     </ul>
                     <div style="padding-top:8px;">
                         <label class="col-md-offset-6" style="padding-top:8px;">Tên Giảng Viên</label>
-                        <a href="DangNhapChung.jsp" target="_blank" class="btn btn-primary pull-right">Đăng xuất</a>
+                        <a href="DangNhapChung.jsp" class="btn btn-primary pull-right">Đăng xuất</a>
                     </div>
                 </div>
             </nav>

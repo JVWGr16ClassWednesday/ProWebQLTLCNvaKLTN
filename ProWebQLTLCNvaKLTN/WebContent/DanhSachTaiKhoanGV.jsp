@@ -102,7 +102,7 @@
         <div class="row">
             <div class="panel panel-default">
                 <div class="panel-body">
-                    <a href="TimDanhSachTaiKhoan.jsp" target="_blank" class="btn btn-primary">Trở về</a>
+                    <a href="TimDanhSachTaiKhoan.jsp" class="btn btn-primary">Trở về</a>
                 </div>
             </div>
         </div>

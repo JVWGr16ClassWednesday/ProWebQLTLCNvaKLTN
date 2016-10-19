@@ -102,7 +102,7 @@
         <div class="row">
             <div class="panel panel-default">
                 <div class="panel-body">
-                    <a href="DanhSachTaiKhoanGiangVienDuocImport.jsp" target="_blank" class="btn btn-primary">Trở về</a>
+                    <a href="DanhSachTaiKhoanGiangVienDuocImport.jsp" class="btn btn-primary">Trở về</a>
                 </div>
             </div>
         </div>
@@ -144,6 +144,7 @@
         </div>
     </div>
     <!-- End Modal Sửa tài khoản  -->
+    
     <!-- Start Modal xóa tài khoản -->
     <div class="modal fade" id="modalXoa" role="dialog">
         <div class="modal-dialog modal-md">

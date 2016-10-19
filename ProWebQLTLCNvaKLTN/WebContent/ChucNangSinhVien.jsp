@@ -25,7 +25,7 @@
                     </ul>
                     <div style="padding-top:8px;">
                         <label class="col-md-offset-8" style="padding-top:8px;">Tên Sinh Viên</label>
-                        <a href="DangNhapChung.jsp" target="_blank" class="btn btn-primary pull-right">Đăng xuất</a>
+                        <a href="DangNhapChung.jsp" class="btn btn-primary pull-right">Đăng xuất</a>
                     </div>
                 </div>
             </nav>
@@ -36,7 +36,7 @@
                 <div class="panel-body">
                     <div class="panel panel-default">
                         <div class="panel-body">
-                            <a href="XemDanhSachDeTaiSV.jsp" target="_blank" class="btn btn-primary">Tìm kiếm</a>
+                            <a href="XemDanhSachDeTaiSV.jsp" class="btn btn-primary">Tìm kiếm</a>
                         </div>
                     </div>
                 </div>

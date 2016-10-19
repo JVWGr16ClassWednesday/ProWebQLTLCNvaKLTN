@@ -22,7 +22,7 @@
                         <li>
                             <a href="TrangChu.jsp"> Trang chủ</a>
                         </li>
-                        <li><a href="ChucNangSinhVien.jsp" class="danger">Tìm Kiếm</a></li>
+                        <li class="active"><a href="ChucNangSinhVien.jsp">Tìm Kiếm</a></li>
                     </ul>
                     <div style="padding-top:8px;">
                         <label class="col-md-offset-8" style="padding-top:8px;">Tên Sinh Viên</label>
@@ -32,7 +32,6 @@
             </nav>
         </div>
     </div>
-    <!-- Start Modal sửa tài khoản -->
     <div class="row">
         <div class="panel panel-default">
             <div class="panel-heading">Xem danh sách đề tài</div>
@@ -69,7 +68,6 @@
                                         <td>Nguyễn Trần Thi Văn</td>
                                         <td class="text-center"><a href="ChiTietDeTaiSV.jsp">Chi tiết</a></td>
                                     </tr>
-
                                 </tbody>
                             </table>
                         </div>

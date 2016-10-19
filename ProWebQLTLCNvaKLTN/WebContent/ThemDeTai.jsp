@@ -22,15 +22,15 @@
                         <li>
                             <a href="TrangChu.jsp"> Trang chủ</a>
                         </li>
-                        <li><a href="Quanlytaikhoan.jsp" class="danger">Quản lý tài khoản</a></li>
-                        <li><a href="QuanLyDeTai.jsp">Quản lý đề tài</a></li>
+                        <li><a href="Quanlytaikhoan.jsp">Quản lý tài khoản</a></li>
+                        <li class="active"><a href="QuanLyDeTai.jsp">Quản lý đề tài</a></li>
                         <li><a href="KiemTraSaoChep.jsp">Kiểm tra sao chép</a></li>
                         <li><a href="SoSanh.jsp">So sánh</a></li>
                         <li><a href="Loc.jsp">Lọc</a></li>
                     </ul>
                     <div style="padding-top:8px;">
                         <label class="col-md-offset-3" style="padding-top:8px;">Admin</label>
-                        <a href="DangNhapChung.jsp" target="_blank" class="btn btn-primary pull-right">Đăng xuất</a>
+                        <a href="DangNhapChung.jsp" class="btn btn-primary pull-right">Đăng xuất</a>
                     </div>
                 </div>
             </nav>
@@ -97,8 +97,7 @@
             </div>
         </div>
     </div>
-    <!-- End Modal Sửa tài khoản  -->
-    <!-- Start Modal xóa tài khoản -->
+    <!-- Start Modal Thông báo tạo thành công đề tài -->
     <div class="modal fade" id="modalthongbao" role="dialog">
         <div class="modal-dialog modal-md">
             <div class="modal-content">
@@ -117,6 +116,6 @@
             </div>
         </div>
     </div>
-    <!-- End Modal Xóa tài khoản  -->
+    <!-- End Modal Thông báo-->
 </body>
 </html>

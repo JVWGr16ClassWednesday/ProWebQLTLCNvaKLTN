@@ -22,7 +22,7 @@
                         <li>
                             <a href="TrangChu.jsp"> Trang chủ</a>
                         </li>
-                        <li><a href="QuanLyDeTaiGV.jsp">Quản lý đề tài</a></li>
+                        <li class="active"><a href="QuanLyDeTaiGV.jsp">Quản lý đề tài</a></li>
                         <li><a href="KiemTraSaoChepGV.jsp">Kiểm tra sao chép</a></li>
                     </ul>
                     <div style="padding-top:8px;">
